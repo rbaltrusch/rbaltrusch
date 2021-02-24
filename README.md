@@ -11,14 +11,14 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 ## Interests
 
 - Games: I wrote a game engine and used it for my first game, [Bullet Sudoku](https://github.com/rbaltrusch#bullet-sudoku), a 2D top-down platformer.
-- Music: I compose and [procedurally generate music](https://github.com/rbaltrusch/music_generation).
 - Languages: I am interested in constructed languages and [custom programming languages](https://github.com/rbaltrusch/python_interpreter).
+- Music: I compose and [procedurally generate music](https://github.com/rbaltrusch/music_generation).
 
 ## Going forward
 
 1) Planning to release my game [Bullet Sudoku](https://github.com/rbaltrusch#bullet-sudoku) in the coming months.
 1) Planning on expanding the currently very limited vocabulary of my custom scripting language [Natscript](https://github.com/rbaltrusch/python_interpreter).
-2) 1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could need a lot more work... :shrug:
+1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could need a lot more work... :shrug:
 
 ## Bullet Sudoku
 
