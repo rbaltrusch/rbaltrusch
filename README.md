@@ -16,9 +16,9 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 
 ## Going forward
 
-1) Planning to release my game [Bullet Sudoku](https://github.com/rbaltrusch#bullet-sudoku) in the coming months, as well as write a few more games using my game engine. I am also planning to release a concise, open-source version of my game engine.
-1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could need a lot more work... :shrug:
+1) Planning to release my game [Bullet Sudoku](https://github.com/rbaltrusch#bullet-sudoku) in the coming months.
 1) Planning on expanding the currently very limited vocabulary of my custom scripting language [Natscript](https://github.com/rbaltrusch/python_interpreter).
+2) 1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could need a lot more work... :shrug:
 
 ## Bullet Sudoku
 
