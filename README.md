@@ -32,7 +32,7 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 ### Batest
 
-[Batest](https://github.com/rbaltrusch/batest) is a lightweight unit testing framework for Windows batchfile scripts. As no testing framework existed when I was learning [Batch](https://github.com/rbaltrusch/batch), I wrote my own :+1:.
+[Batest](https://github.com/rbaltrusch/batest) is a lightweight unit testing framework for Windows batchfile scripts. As no testing framework existed when I was learning [Batch](https://github.com/rbaltrusch/batch), I wrote my own :+1:. It generates simple HTML test reports like this:
 
 ![Screenshots of the test reports](https://github.com/rbaltrusch/batest/blob/master/batest/media/screenshot.png?raw=true)
 
