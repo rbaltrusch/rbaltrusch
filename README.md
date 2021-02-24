@@ -24,7 +24,7 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 
 Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game engine written in Python, which I plan to release in the coming months.
 
-[Short GIF of Bullet Sudoku gameplay](https://github.com/rbaltrusch/rbaltrusch/blob/master/media/bullet_sudoku.gif?raw=true "Short GIF of Bullet Sudoku gameplay")
+![Short GIF of Bullet Sudoku gameplay](https://github.com/rbaltrusch/rbaltrusch/blob/master/media/bullet_sudoku.gif?raw=true "Short GIF of Bullet Sudoku gameplay")
 
 The source code is currently not open-source, but I plan on releasing a condensed open-source version of the game engine in the near future.
 
@@ -38,7 +38,7 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 Here's my music analysis tool, which I started building in 2018 and recently built a fancy user interface for:
 
-![Screenshot of the analysis GUI](music_mood_analysis/gui/media/screenshot2.png?raw=true "Screenshot of the analysis GUI")
+![Screenshot of the analysis GUI](https://github.com/rbaltrusch/music_mood_analysis/blob/master/music_mood_analysis/gui/media/screenshot2.png?raw=true "Screenshot of the analysis GUI")
 
 ### Object oriented batch
 
