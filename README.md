@@ -1,4 +1,4 @@
-### Hello World :ok_hand:
+# Hello World :ok_hand:
 
 I am Richard Baltrusch, a German software engineer that likes to build all kinds of stuff, preferably in Python.
 
