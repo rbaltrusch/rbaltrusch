@@ -22,7 +22,7 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 
 ## Bullet Sudoku
 
-Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game engine written in Python, which I plan to release in the coming months.
+Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game engine written in Python. I plan to release the game in the coming months.
 
 ![Short GIF of Bullet Sudoku gameplay](https://github.com/rbaltrusch/rbaltrusch/blob/master/media/bullet_sudoku.gif?raw=true "Short GIF of Bullet Sudoku gameplay")
 
@@ -33,6 +33,8 @@ The source code is currently not open-source, but I plan on releasing a condense
 ### Batest
 
 [Batest](https://github.com/rbaltrusch/batest) is a lightweight unit testing framework for Windows batchfile scripts. As no testing framework existed when I was learning [Batch](https://github.com/rbaltrusch/batch), I wrote my own :+1:.
+
+![Screenshots of the test reports](https://github.com/rbaltrusch/batest/blob/master/batest/media/screenshot.png?raw=true)
 
 ### Music analysis
 
