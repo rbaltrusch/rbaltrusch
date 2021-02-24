@@ -44,7 +44,7 @@ Here's my music analysis tool, which I started building in 2018 and recently bui
 
 For people unfortunate enough to come to Batch with an object oriented background, I wrote an [object oriented framework for Batch](https://github.com/rbaltrusch/objectbatch/wiki), including classes and instances, methods and attributes, inheritance, encapsulation, polymorphism and object composition.
 
-<sub><sup>It's probably not very useful, but at least it was fun to make :100::100:</sup></sub>
+<sub>It's probably not very useful, but at least it was fun to make :100::100:</sub>
 
 ## Contact
 
