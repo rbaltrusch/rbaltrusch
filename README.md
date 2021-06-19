@@ -60,6 +60,36 @@ I also made a small chat application to get a good grasp of networking using web
 
 For people unfortunate enough to come to Batch with an object oriented background, I wrote an [object oriented framework for Batch](https://github.com/rbaltrusch/objectbatch/wiki), including classes and instances, methods and attributes, inheritance, encapsulation, polymorphism and object composition.
 
+As can be seen in the code examples below, the batch OOP syntax is surprisingly clean (for batch):
+
+Simple use of a class instance:
+```batch
+::instantiate new object obj of type MyClass
+call new MyClass obj construct
+
+::calling method myMethod of instance obj
+call # obj myMethod
+
+::reading obj attribute myAttr
+echo !%obj%.myAttr!
+
+::writing obj attribute myAttr
+set %obj%.myAttr=1
+```
+
+Simple class definition:
+```batch
+::boilerplate
+call class %*
+%class%
+
+::this is the constructor, adding one custom attribute attr
+:public-construct
+    call super %*
+    set %self%.attr=0
+exit /b
+```
+
 <sub>It's probably not very useful, but at least it was fun to make :100::100:</sub>
 
 ## Contact
