@@ -44,11 +44,17 @@ Here's my music analysis tool, which I started building in 2018 and recently bui
 
 ![Screenshot of the analysis GUI](https://github.com/rbaltrusch/music_mood_analysis/blob/master/music_mood_analysis/gui/media/screenshot2.png?raw=true "Screenshot of the analysis GUI")
 
-## Shop application
+### Shop application
 
 Here's a small shop application I made to solidify my understanding of SQL and handling confidential data securely in databases.
 
 ![Screenshot of the application GUI](https://github.com/rbaltrusch/desktop_shop/blob/master/desktop_shop/gui/media/gif.gif?raw=true "Screenshot of the application GUI")
+
+### Chat application
+
+I also made a small chat application to get a good grasp of networking using websockets. The application can be run on a local network.
+
+![Gif of the application GUI](https://github.com/rbaltrusch/LocalChat/blob/master/src/gui/media/gif1.gif?raw=true "Gif of the application GUI")
 
 ### Object oriented batch
 
