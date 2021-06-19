@@ -44,6 +44,12 @@ Here's my music analysis tool, which I started building in 2018 and recently bui
 
 ![Screenshot of the analysis GUI](https://github.com/rbaltrusch/music_mood_analysis/blob/master/music_mood_analysis/gui/media/screenshot2.png?raw=true "Screenshot of the analysis GUI")
 
+## Shop application
+
+Here's a small shop application I made to solidify my understanding of SQL and handling confidential data securely in databases.
+
+![Screenshot of the application GUI](https://github.com/rbaltrusch/desktop_shop/blob/master/desktop_shop/gui/media/gif.gif?raw=true "Screenshot of the application GUI")
+
 ### Object oriented batch
 
 For people unfortunate enough to come to Batch with an object oriented background, I wrote an [object oriented framework for Batch](https://github.com/rbaltrusch/objectbatch/wiki), including classes and instances, methods and attributes, inheritance, encapsulation, polymorphism and object composition.
