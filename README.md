@@ -24,7 +24,7 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 
 Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game engine written in Python. A free demo of the game is available on [itch.io](https://richardbaltrusch.itch.io/bullet-sudoku).
 
-![Short GIF of Bullet Sudoku gameplay](https://github.com/rbaltrusch/rbaltrusch/blob/master/media/bullet_sudoku.gif?raw=true "Short GIF of Bullet Sudoku gameplay")
+![Short GIF of Bullet Sudoku gameplay](https://i.imgur.com/W5812oP.gif?raw=true "Short GIF of Bullet Sudoku gameplay")
 
 The source code is currently not open-source, but I plan on releasing a condensed open-source version of the game engine in the near future.
 
