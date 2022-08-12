@@ -57,7 +57,7 @@ Here's a small [shop application](https://github.com/rbaltrusch/desktop_shop) I 
 
 I also made a small [chat application](https://github.com/rbaltrusch/LocalChat) to get a good grasp of networking using websockets. The application can be run on a local network.
 
-![Gif of the application GUI](https://github.com/rbaltrusch/LocalChat/blob/master/src/gui/media/gif1.gif?raw=true "Gif of the application GUI")
+![Gif of the application GUI](https://github.com/rbaltrusch/LocalChat/blob/master/localchat/gui/media/gif1.gif?raw=true "Gif of the application GUI")
 
 ### Object oriented batch
 
