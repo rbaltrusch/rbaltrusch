@@ -4,8 +4,11 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 
 ## Languages
 
-- Professionally MATLAB, Python and Simulink.
-- Currently learning Java for Android development.
+- Professionally Python, Java and MATLAB/Simulink.
+- Currently:
+  - Improving my web development skills with Java (Spring Boot) and Javascript.
+  - Learning machine learning in Python (with Tensorflow/Keras and from scratch).
+  - Learning Julia (fun stuff).
 - Interested in Scala, Go and Rust.
 
 ## Interests
@@ -17,8 +20,8 @@ I am Richard Baltrusch, a German software engineer that likes to build all kinds
 ## Going forward
 
 1) Working on my second game at the moment (precision platformer using my custom made python game engine).
-1) Planning on expanding the currently very limited vocabulary of my custom scripting language [Natscript](https://github.com/rbaltrusch/python_interpreter).
-1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could need a lot more work... :shrug:
+1) Planning on adding the finishing touches of my custom scripting language [Natscript](https://github.com/rbaltrusch/python_interpreter), as well as adding more tooling support and potentially improving the performance of the interpreter (probably by implementing a JIT compiler using LLVM).
+1) I suppose my [chess engine](https://github.com/rbaltrusch/chess_engine) could use a bit more performance work (and adding castling and en-passant)... :shrug:
 
 ## Bullet Sudoku
 
