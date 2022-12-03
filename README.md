@@ -61,7 +61,7 @@ Here's my [music analysis tool](https://github.com/rbaltrusch/music_mood_analysi
 
 ### Music generators
 
-Over the years, I have worked on multiple procedural music generators, two of which are open-sourced in Github and available on pypi:
+Over the years, I have worked on multiple procedural music generators, two of which are open-sourced on Github and available on pypi:
 - My [Bach generator](https://github.com/rbaltrusch/bach_generator) generates a transformed version of music input (via midi files) using a machine-learning algorithm optimizing for correlation of the output with the input. This ensures the produced musical transformations are internally consistent.
 - [Continuo](https://github.com/rbaltrusch/continuo) is a pypi package that procedurally generates music based on a provided set of input parameters.
 
