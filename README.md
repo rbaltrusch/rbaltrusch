@@ -36,18 +36,15 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 ### Game jam submissions
 
-In 2023 I joined several game jams to try out new technology and new ideas. The source code for all of them in open source.
+In 2023 I published multiple game jam submissions, with open source code, to try out new technology and new ideas:
 
 [**Unicast Network Sim**](https://github.com/rbaltrusch/unicast_network_sim): a Python game where you deliver network packets. Placed 16th out of 500 for innovation due to the creative input system.
-
 <img width="384" height="256" src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
 
 [**Myrkur**](https://github.com/rbaltrusch/myrkur): a dungeon exploration game written with Love2D in Lua.
-
 <img width="384" height="256" src="/media/myrkur.gif" alt="Myrkur gameplay">
 
 [**Uncaved**](https://github.com/rbaltrusch/uncaved-gmtk): a reverse cave-exploring game where you control a cave full of traps, written in Java with libGDX.
-
 <img width="384" height="256" src="/media/uncaved.gif" alt="Uncaved gameplay">
 
 ### Pygame examples
