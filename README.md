@@ -45,7 +45,7 @@ In 2023 I joined several game jams to try out new technology and new ideas:
 <a href="https://github.com/rbaltrusch/unicast_network_sim">
   <figure>
     <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-    <figcaption>Unicast network simulator</figcaption>
+    <figcaption>Unicast network simulator: <a>a game where you deliver network packets with an innovative input system.</a></figcaption>
   </figure>
 </a>
 
