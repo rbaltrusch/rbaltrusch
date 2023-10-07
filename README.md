@@ -36,31 +36,25 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 ### Game jam submissions
 
-In 2023 I joined several game jams to try out new technology and new ideas:
+In 2023 I joined several game jams to try out new technology and new ideas. The source code for all of them in open source.
 
-<div>
-  <figure>
-    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-    <figcaption>
-      <a href="https://github.com/rbaltrusch/unicast_network_sim">Unicast network simulator</a>
-      : a game where you deliver network packets. Placed 16th out of 500 for innovation due to the creative input system.
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/media/myrkur.gif" alt="Myrkur gameplay">
-    <figcaption>
-      <a href="https://github.com/rbaltrusch/myrkur">Myrkur</a>
-      : a dungeon exploration game.
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/media/uncaved.gif" alt="Uncaved gameplay">
-    <figcaption>
-      <a href="https://github.com/rbaltrusch/uncaved-gmtk">Uncaved</a>
-      : a reverse cave-exploring game where you control a cave full of traps.
-    </figcaption>
-  </figure>
-<div>
+#### Unicast Network Sim
+
+[Unicast network simulator](https://github.com/rbaltrusch/unicast_network_sim): a Python game where you deliver network packets. Placed 16th out of 500 for innovation due to the creative input system.
+
+![Unicast network simulator gameplay](/media/unicast_network_sim.gif)
+
+#### Myrkur
+
+[Myrkur](https://github.com/rbaltrusch/myrkur): a dungeon exploration game written with Love2D in Lua.
+
+<img width="276" src="/media/myrkur.gif" alt="Myrkur gameplay">
+
+#### Uncaved
+
+[Uncaved](https://github.com/rbaltrusch/uncaved-gmtk): a reverse cave-exploring game where you control a cave full of traps, written in Java with libGDX.
+
+![Uncaved gameplay](/media/uncaved.gif)
 
 ### Pygame examples
 
