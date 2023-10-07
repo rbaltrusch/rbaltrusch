@@ -38,13 +38,29 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 In 2023 I joined several game jams to try out new technology and new ideas:
 
-<figure>
-  <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-  <figcaption>
-    <a href="https://github.com/rbaltrusch/unicast_network_sim">Unicast network simulator</a>
-    : a game where you deliver network packets with an innovative input system.
-  </figcaption>
-</figure>
+<div>
+  <figure>
+    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
+    <figcaption>
+      <a href="https://github.com/rbaltrusch/unicast_network_sim">Unicast network simulator</a>
+      : a game where you deliver network packets. Placed 16th out of 500 for innovation due to the creative input system.
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="/media/myrkur.gif" alt="Myrkur gameplay">
+    <figcaption>
+      <a href="https://github.com/rbaltrusch/myrkur">Myrkur</a>
+      : a dungeon exploration game.
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="/media/uncaved.gif" alt="Uncaved gameplay">
+    <figcaption>
+      <a href="https://github.com/rbaltrusch/uncaved-gmtk">Uncaved</a>
+      : a reverse cave-exploring game where you control a cave full of traps.
+    </figcaption>
+  </figure>
+<div>
 
 ### Pygame examples
 
