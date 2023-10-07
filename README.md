@@ -34,6 +34,26 @@ Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game e
 
 The source code is currently not open-source, but I plan on releasing a condensed open-source version of the game engine in the near future.
 
+### Game jam submissions
+
+In 2023 I joined several game jams to try out new technology and new ideas:
+
+<a href="https://github.com/rbaltrusch/unicast_network_sim">
+  <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
+</a>
+
+<a href="https://github.com/rbaltrusch/unicast_network_sim">
+  <figure>
+    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
+    <figcaption>Unicast network simulator</figcaption>
+  </figure>
+</a>
+
+  <figure>
+    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
+    <figcaption>Unicast network simulator</figcaption>
+  </figure>
+
 ### Pygame examples
 
 I have a number of small / medium size pygame examples that illustrate a certain technique or explore game concepts, such as particle effects, lighting, events and networking, in more detail.
