@@ -38,21 +38,13 @@ The source code is currently not open-source, but I plan on releasing a condense
 
 In 2023 I joined several game jams to try out new technology and new ideas:
 
-<a href="https://github.com/rbaltrusch/unicast_network_sim">
+<figure>
   <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-</a>
-
-<a href="https://github.com/rbaltrusch/unicast_network_sim">
-  <figure>
-    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-    <figcaption>Unicast network simulator: <a>a game where you deliver network packets with an innovative input system.</a></figcaption>
-  </figure>
-</a>
-
-  <figure>
-    <img src="/media/unicast_network_sim.gif" alt="Unicast network simulator gameplay">
-    <figcaption>Unicast network simulator</figcaption>
-  </figure>
+  <figcaption>
+    <a href="https://github.com/rbaltrusch/unicast_network_sim">Unicast network simulator</a>
+    : a game where you deliver network packets with an innovative input system.
+  </figcaption>
+</figure>
 
 ### Pygame examples
 
