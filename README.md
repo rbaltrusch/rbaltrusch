@@ -15,7 +15,7 @@ You can contact me using the following links:
   - Developing a full stack web application using Java (Spring Boot) and Javascript.
   - Learning [machine learning](https://github.com/rbaltrusch/gameML) in Python (with Tensorflow/Keras and from scratch).
   - Exploring development of [C-extensions](https://github.com/rbaltrusch/python_performance_examples/tree/master/source/c_extension_example) for Python.
-  - Learning Julia (fun stuff).
+  - Tinkering with Julia and Haskell.
 - Interested in Scala, Go and Rust.
 
 ## Interests
