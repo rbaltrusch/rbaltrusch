@@ -1,6 +1,6 @@
 # Hello World :ok_hand:
 
-I am Richard Baltrusch, a German software engineer that likes to build all kinds of stuff, preferably in Python.
+I am Richard Baltrusch, a German software engineer that likes to build all kinds of stuff, with a faible for Python.
 
 You can contact me using the following links:
 
@@ -52,7 +52,7 @@ In 2023 I published multiple game jam submissions, with open source code, to try
 
 ### Pygame examples
 
-I have a number of small / medium size pygame examples that illustrate a certain technique or explore game concepts, such as particle effects, lighting, events and networking, in more detail.
+I have a number of small / medium size pygame examples that illustrate a certain technique or explore game concepts, such as particle effects, lighting, events and networking, in more detail. Source code is available [here](https://github.com/rbaltrusch/pygame_examples).
 
 ![Gif of the particle effects](https://github.com/rbaltrusch/pygame_examples/blob/master/media/particle_effects.gif?raw=true "Gif of the particle effects")
 ![Gif of the lighting system](https://github.com/rbaltrusch/pygame_examples/blob/master/media/lighting_system.gif?raw=true "Gif of the lighting system")
