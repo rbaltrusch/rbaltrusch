@@ -158,3 +158,7 @@ exit /b
 - I also made a small [chat application](https://github.com/rbaltrusch/pychatter) to get a good grasp of networking using websockets. The application can be run on a local network.
 
 ![Gif of the application GUI](https://github.com/rbaltrusch/pychatter/blob/master/pychatter/gui/media/gif1.gif?raw=true "Gif of the application GUI")
+
+## Stats
+
+[![rbaltrusch's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbaltrusch&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
