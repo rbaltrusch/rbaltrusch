@@ -32,7 +32,7 @@ I released a number of games, including a full release, and [pygaja](https://git
 
 Bullet Sudoku is a small game I wrote in summer 2020 using my custom made game engine written in Python. A free demo of the game is available on [itch.io](https://richardbaltrusch.itch.io/bullet-sudoku). It is currently sitting at almost 100 downloads!
 
-![Short GIF of Bullet Sudoku gameplay](https://imgur.com/gallery/bullet-sudoku-gameplay-WmdMoTb?raw=true)
+![Short GIF of Bullet Sudoku gameplay](/media/bullet_sudoku2.gif)
 
 The source code is currently not open-source, but I plan on releasing a condensed open-source version of the game engine in the near future.
 
